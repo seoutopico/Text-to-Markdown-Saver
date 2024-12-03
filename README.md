@@ -99,4 +99,4 @@ Link del Proyecto: [https://github.com/seoutopico/Text-to-Markdown-Saver](https:
 
 - [Google Chrome Extensions Documentation](https://developer.chrome.com/docs/extensions/)
 - [Markdown Guide](https://www.markdownguide.org/)
-- [Txt iconos creados por srip - Flaticon] (https://www.flaticon.es/iconos-gratis/txt) 
+- [Txt iconos creados por srip - Flaticon](https://www.flaticon.es/iconos-gratis/txt) 
