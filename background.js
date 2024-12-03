@@ -1,7 +1,7 @@
 chrome.runtime.onInstalled.addListener(() => {
   chrome.contextMenus.create({
     id: "saveAsMarkdown",
-    title: "Guardar como Markdown",
+    title: "Guardar como txt",
     contexts: ["selection"]
   });
 });
