@@ -19,7 +19,7 @@ Una extensión para Google Chrome que permite guardar texto seleccionado como ar
 
 1. Clona este repositorio o descarga los archivos
 ```bash
-git clone [URL-del-repositorio]
+git clone https://github.com/seoutopico/Text-to-Markdown-Saver
 ```
 
 2. Abre Chrome y navega a:
@@ -93,7 +93,7 @@ Este proyecto está bajo la Licencia MIT - ver el archivo [LICENSE.md](LICENSE.m
 
 Tu Nombre - [@aina_lluna](https://x.com/aina_lluna)
 
-Link del Proyecto: [https://github.com/tuUsuario/text-to-markdown-saver](https://github.com/tuUsuario/text-to-markdown-saver)
+Link del Proyecto: [https://github.com/seoutopico/Text-to-Markdown-Saver](https://github.com/seoutopico/Text-to-Markdown-Saverr)
 
 ## 🙏 Agradecimientos
 
