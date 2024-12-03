@@ -74,21 +74,6 @@ const markdownContent = `# Texto guardado de ${tab.url}\n\n_Guardado el: ${date}
 
 Este proyecto está bajo la Licencia MIT - ver el archivo [LICENSE.md](LICENSE.md) para más detalles.
 
-## 🤝 Contribuir
-
-1. Fork el proyecto
-2. Crea una nueva rama (`git checkout -b feature/AmazingFeature`)
-3. Commit tus cambios (`git commit -m 'Add some AmazingFeature'`)
-4. Push a la rama (`git push origin feature/AmazingFeature`)
-5. Abre un Pull Request
-
-## ✨ Próximas Funcionalidades
-
-- [ ] Soporte para formateo personalizado
-- [ ] Opciones de configuración
-- [ ] Atajos de teclado
-- [ ] Soporte para múltiples formatos de salida
-
 ## 📞 Contacto
 
 Aina-Lluna Taylot Barceló - [@aina_lluna](https://x.com/aina_lluna)
