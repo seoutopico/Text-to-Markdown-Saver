@@ -1,10 +1,10 @@
-# Text to Markdown Saver - Chrome Extension
+# Text to txt Saver - Chrome Extension
 
-Una extensión para Google Chrome que permite guardar texto seleccionado como archivo Markdown con un solo clic.
+Una extensión para Google Chrome que permite guardar texto seleccionado como archivo txt con un solo clic.
 
 ## 🌟 Características
 
-- Guarda texto seleccionado como archivo Markdown (.md)
+- Guarda texto seleccionado como archivo de texto (.txt)
 - Incluye metadata automáticamente (URL de origen y fecha)
 - Formato Markdown listo para usar
 - Interfaz simple a través del menú contextual
@@ -45,7 +45,7 @@ text-to-markdown-saver/
 
 1. Selecciona cualquier texto en una página web
 2. Haz clic derecho sobre el texto seleccionado
-3. Selecciona "Guardar como Markdown" del menú contextual
+3. Selecciona "Guardar como txt" del menú contextual
 4. Elige la ubicación para guardar el archivo
 
 ## 📄 Formato del Archivo Generado
