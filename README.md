@@ -91,7 +91,7 @@ Este proyecto está bajo la Licencia MIT - ver el archivo [LICENSE.md](LICENSE.m
 
 ## 📞 Contacto
 
-Tu Nombre - [@aina_lluna](https://x.com/aina_lluna)
+Aina-Lluna Taylot Barceló - [@aina_lluna](https://x.com/aina_lluna)
 
 Link del Proyecto: [https://github.com/seoutopico/Text-to-Markdown-Saver](https://github.com/seoutopico/Text-to-Markdown-Saverr)
 
