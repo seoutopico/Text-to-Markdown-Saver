@@ -1,8 +1,8 @@
 {
   "manifest_version": 3,
-  "name": "Text to Markdown Saver",
+  "name": "Text to txt Saver",
   "version": "1.0",
-  "description": "Guarda texto seleccionado como archivo Markdown",
+  "description": "Guarda texto seleccionado como archivo txt",
   "permissions": [
     "contextMenus",
     "downloads",
@@ -21,7 +21,7 @@
     "js": ["content.js"]
   }],
   "action": {
-    "default_title": "Text to Markdown Saver"
+    "default_title": "Text to txt Saver"
   },
   "icons": {
     "32": "icon32.png",
